@@ -80,3 +80,7 @@ Glimmer es uno de los motores de renderizado DOM más rápidos y ofrece un rendi
 
 Glimmer, una biblioteca para crear aplicaciones móviles que surgió de JavaScript front-end de Ember.js
 
+### Gsap Js ###
+[GSAP] (https://greensock.com/docs/v3/GSAP)
+
+GSAP es una biblioteca Javascript muy robusta que nos permite crear animaciones basadas en Timeline con gran precisión y confiabilidad. Basado en sus propias palabras: una animación profesional de ultra alto rendimiento para la web moderna.
